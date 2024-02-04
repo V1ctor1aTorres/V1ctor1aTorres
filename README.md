@@ -19,10 +19,10 @@ Atualmente, busco oportunidades para aplicar meus conhecimentos e crescer profis
 [![GitHub Streak](https://streak-stats.demolab.com/?user=V1ctor1aTorres&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## Contato
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:victoriaviana025@gmail.com)
  > victoriaviana025@gmail.com  
    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-viana/)
  > [linkedin.com/in/victoria-viana](https://linkedin.com/in/victoria-viana)  
    
 
