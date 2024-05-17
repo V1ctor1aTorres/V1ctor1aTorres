@@ -11,15 +11,17 @@ Recentemente conquistei as certificações: [AWS Cloud Practitioner CLF-C02](htt
 
 ## Projetos
 - [Docker-Pipeline-Terraform2](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform2/-/blob/main/READM.md?ref_type=heads):
-  Pipeline CI/CD para criar uma imagem Docker, executá-la em um container na AWS e automatizar o versionamento do código. 
+   Pipeline CI/CD para criar uma imagem Docker, executá-la em um container na AWS e automatizar o versionamento do código. 
 - [Docker-Pipeline-Terraform1](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform1/-/blob/main/READM.md?ref_type=heads):
-  Pipeline CI/CD para executar uma imagem Docker em um container Docker na AWS.
+   Pipeline CI/CD para executar uma imagem Docker em um container Docker na AWS.
+- [Desafio-Terraform-Gitlab](https://gitlab.com/V1ctor1aTorres/terraform-gitlab/-/blob/main/READM.md?ref_type=heads):
+   Criação de uma infraestrutura com o Terraform na AWS e criação de um deploy com o GitLab na EC2.
 - [AWS-Terraform](https://github.com/V1ctor1aTorres/AWS-Terraform):
-  Criação de uma máquina virtual na nuvem AWS, com Terraform, para servir como servidor de um site estático.
+   Criação de uma máquina virtual na nuvem AWS, com Terraform, para servir como servidor de um site estático.
 - [Site-estatico-no-S3](https://github.com/V1ctor1aTorres/Site-estatico-no-S3/tree/main):
-  Hospedagem de um site estático na AWS, utilizando o Amazon S3, com proteção de dados e  estratégia de ciclo de vida de dados.
+   Hospedagem de um site estático na AWS, utilizando o Amazon S3, com proteção de dados e  estratégia de ciclo de vida de dados.
 - [Docker1](https://github.com/V1ctor1aTorres/Docker1):
-  Criação de uma imagem Docker e publicação no Dockerhub.
+   Criação de uma imagem Docker e publicação no Dockerhub.
 - [Projeto-IAC](https://github.com/V1ctor1aTorres/Projeto-IAC): Criação de uma máquina virtual local, que serve como servidor para um website.
 
 ## Minhas Habilidades
