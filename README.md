@@ -10,12 +10,16 @@ Meus estudos são focados em Cloud Computing e DevOps. Tenho conhecimentos em HT
 Recentemente conquistei as certificações: [AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/ceb36149-b0e5-4d16-8623-65e4bab037ae/linked_in?t=s7enyy) e [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6) .
 
 ## Projetos
+- [Docker-Pipeline-Terraform2](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform2/-/blob/main/READM.md?ref_type=heads):
+  Pipeline CI/CD para criar uma imagem Docker, executá-la em um container na AWS e automatizar o versionamento do código. 
+- [Docker-Pipeline-Terraform1](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform1/-/blob/main/READM.md?ref_type=heads):
+  Pipeline CI/CD para executar uma imagem Docker em um container Docker na AWS.
 - [AWS-Terraform](https://github.com/V1ctor1aTorres/AWS-Terraform):
-  Utilizando o Terraform criei uma máquina virtual na nuvem AWS, de forma automatizada, para servir como servidor de um site estático.
+  Criação de uma máquina virtual na nuvem AWS, com Terraform, para servir como servidor de um site estático.
 - [Site-estatico-no-S3](https://github.com/V1ctor1aTorres/Site-estatico-no-S3/tree/main):
-  Utilizando o Amazon S3 hospedei um site estático na AWS com proteção de dados e  estratégia de ciclo de vida de dados.
+  Hospedagem de um site estático na AWS, utilizando o Amazon S3, com proteção de dados e  estratégia de ciclo de vida de dados.
 - [Docker1](https://github.com/V1ctor1aTorres/Docker1):
- Criação de uma imagem Docker e publicação no Dockerhub.
+  Criação de uma imagem Docker e publicação no Dockerhub.
 - [Projeto-IAC](https://github.com/V1ctor1aTorres/Projeto-IAC): Criação de uma máquina virtual local, que serve como servidor para um website.
 
 ## Minhas Habilidades
