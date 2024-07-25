@@ -1,13 +1,13 @@
 
-# Estudante de Cloud Computing e DevOps ☁️⚙️
+# Estudante de Cloud Computing ☁️
 Olá, é muito bom ter você aqui!👋<br/>
 Fique a vontade para saber mais sobre mim, sobre meus estudos e meus projetos.<br/> 
 
 ## Sobre Mim
 Me chamo Victoria, tenho 26 anos, sou de Fortaleza - CE. Atualmente em transição de carreira, trabalhei durante 5 anos no setor de varejo farmacêutico e estou migrando para a área de tecnologia.
 Estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá. <br/>
-Meus estudos são focados em Cloud Computing e DevOps. Tenho conhecimentos em HTML, CSS, JavaScript, Python, SQL, Git, AWS, Oracle Cloud e inglês intermediário. Além disso, tenho conhecimentos básicos em Linux, Docker, Kubernetes, Vagrant e Terraform. <br/>
-Recentemente conquistei as certificações: [AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/ceb36149-b0e5-4d16-8623-65e4bab037ae/linked_in?t=s7enyy) e [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6) .
+Meus estudos são focados em Cloud Computing. Tenho conhecimentos em HTML, CSS, JavaScript, Python, SQL, Git, AWS, Oracle Cloud, Google  Cloud e inglês intermediário. Além disso, tenho conhecimentos básicos em Linux, Docker, Kubernetes, Vagrant e Terraform. <br/>
+Recentemente conquistei as certificações: [AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/ceb36149-b0e5-4d16-8623-65e4bab037ae/linked_in?t=s7enyy), [OCI 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6), [GCP Associate Cloud Engineer](https://www.credly.com/badges/e4e70c42-4730-4880-a65b-b9fb2d4cdfdc/public_url) e [GitHub Foundations](https://www.credly.com/badges/4d931262-4347-4f56-ae8f-028169dd5da0/public_url).
 
 ## Projetos
 - [Docker-Pipeline-Terraform2](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform2/-/blob/main/READM.md?ref_type=heads):
@@ -48,7 +48,9 @@ Recentemente conquistei as certificações: [AWS Cloud Practitioner CLF-C02](htt
 
 ## Certificações
 - [AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/ceb36149-b0e5-4d16-8623-65e4bab037ae/linked_in?t=s7enyy)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6)
+- [OCI 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6)
+- [GCP Associate Cloud Engineer](https://www.credly.com/badges/e4e70c42-4730-4880-a65b-b9fb2d4cdfdc/public_url)
+- [GitHub Foundations](https://www.credly.com/badges/4d931262-4347-4f56-ae8f-028169dd5da0/public_url)
 
 ## Contatos
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:victoriaviana025@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-viana/)
