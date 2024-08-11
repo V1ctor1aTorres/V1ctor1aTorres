@@ -4,10 +4,9 @@ Olá, é muito bom ter você aqui!👋<br/>
 Fique a vontade para saber mais sobre mim, sobre meus estudos e meus projetos.<br/> 
 
 ## Sobre Mim
-Me chamo Victoria, tenho 26 anos, sou de Fortaleza - CE. Atualmente em transição de carreira, trabalhei durante 5 anos no setor de varejo farmacêutico e estou migrando para a área de tecnologia.
-Estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá. <br/>
-Meus estudos são focados em Cloud Computing. Tenho conhecimentos em HTML, CSS, JavaScript, Python, SQL, Git, AWS, Oracle Cloud, Google  Cloud e inglês intermediário. Além disso, tenho conhecimentos básicos em Linux, Docker, Vagrant e Terraform. <br/>
-Recentemente conquistei as certificações: [AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/ceb36149-b0e5-4d16-8623-65e4bab037ae/linked_in?t=s7enyy), [OCI 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6), [GCP Associate Cloud Engineer](https://www.credly.com/badges/e4e70c42-4730-4880-a65b-b9fb2d4cdfdc/public_url) e [GitHub Foundations](https://www.credly.com/badges/4d931262-4347-4f56-ae8f-028169dd5da0/public_url).
+Sou aspirante a Arquiteta de Soluções e estou em transição de carreira. Trabalhei por 5 anos no setor de varejo farmacêutico, começando na área de vendas e atendimento ao cliente, e depois atuando no setor de merchandising e marketing. Agora, estou migrando para a área de tecnologia.<br>
+Atualmente, estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Estácio, com foco em Cloud Computing, mais especificamente em arquitetura de soluções.<br>
+Conquistei as seguintes certificações em computação em nuvem: [GCP Associate Cloud Engineer](https://www.credly.com/badges/e4e70c42-4730-4880-a65b-b9fb2d4cdfdc/public_url), [AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/ceb36149-b0e5-4d16-8623-65e4bab037ae/linked_in?t=s7enyy), [OCI 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6) e [GitHub Foundations](https://www.credly.com/badges/4d931262-4347-4f56-ae8f-028169dd5da0/public_url). Tenho conhecimentos em HTML, CSS, JavaScript, Python, SQL, Git, AWS, Google Cloud, Azure, Oracle Cloud e inglês intermediário. Além disso, possuo noções básicas de Linux, Docker, Kubernetes, Vagrant e Terraform.
 
 ## Projetos
 - [Docker-Pipeline-Terraform2](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform2/-/blob/main/READM.md?ref_type=heads):
@@ -23,6 +22,17 @@ Recentemente conquistei as certificações: [AWS Cloud Practitioner CLF-C02](htt
 - [Docker1](https://github.com/V1ctor1aTorres/Docker1):
    Criação de uma imagem Docker e publicação no Dockerhub.
 - [Projeto-IAC](https://github.com/V1ctor1aTorres/Projeto-IAC): Criação de uma máquina virtual local, que serve como servidor para um website.
+
+## 5 Mini Tutoriais na AWS
+- [Simple-Data-Visualization-With-Amazon-QuickSight](https://github.com/V1ctor1aTorres/Simple-Data-Visualization-With-Amazon-QuickSight)
+  Visualizando dados com o Amazon QuickSigh.
+- [Creating-a-CloudFormation-Stack](https://github.com/V1ctor1aTorres/Creating-a-CloudFormation-Stack)
+  Criando uma pilha com o AWS CloudFormation.
+- [Serverless_HelloWorld_with_AWS_Lambda](https://github.com/V1ctor1aTorres/Serverless_HelloWorld_with_AWS_Lambda)
+  Criando uma função com AWS Lambda.
+- [Continuous_Deployment_Pipeline_GitHub_S3](https://github.com/V1ctor1aTorres/Continuous_Deployment_Pipeline_GitHub_S3)
+   Criando um pipeline com AWS CodePipeline.
+- []() 
 
 ## Minhas Habilidades
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
