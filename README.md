@@ -3,36 +3,12 @@
 Olá, é muito bom ter você aqui!👋<br/>
 Fique a vontade para saber mais sobre mim, sobre meus estudos e meus projetos.<br/> 
 
+
 ## Sobre Mim
 Sou aspirante a Arquiteta de Soluções e estou em transição de carreira. Trabalhei por 5 anos no setor de varejo farmacêutico, começando na área de vendas e atendimento ao cliente, e depois atuando no setor de merchandising e marketing. Agora, estou migrando para a área de tecnologia.<br>
 Atualmente, estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Estácio, com foco em Cloud Computing, mais especificamente em arquitetura de soluções.<br>
 Conquistei as seguintes certificações em computação em nuvem: [GCP Associate Cloud Engineer](https://www.credly.com/badges/e4e70c42-4730-4880-a65b-b9fb2d4cdfdc/public_url), [AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/ceb36149-b0e5-4d16-8623-65e4bab037ae/linked_in?t=s7enyy), [OCI 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6) e [GitHub Foundations](https://www.credly.com/badges/4d931262-4347-4f56-ae8f-028169dd5da0/public_url). Tenho conhecimentos em HTML, CSS, JavaScript, Python, SQL, Git, AWS, Google Cloud, Azure, Oracle Cloud e inglês intermediário. Além disso, possuo noções básicas de Linux, Docker, Kubernetes, Vagrant e Terraform.
 
-## Projetos
-- [Docker-Pipeline-Terraform2](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform2/-/blob/main/READM.md?ref_type=heads):<br>
-   Pipeline CI/CD para criar uma imagem Docker, executá-la em um container na AWS e automatizar o versionamento do código. 
-- [Docker-Pipeline-Terraform1](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform1/-/blob/main/READM.md?ref_type=heads):<br>
-   Pipeline CI/CD para executar uma imagem Docker em um container Docker na AWS.
-- [Desafio-Terraform-Gitlab](https://gitlab.com/V1ctor1aTorres/terraform-gitlab/-/blob/main/READM.md?ref_type=heads):<br>
-   Criação de uma infraestrutura com o Terraform na AWS e criação de um deploy com o GitLab na EC2.
-- [AWS-Terraform](https://github.com/V1ctor1aTorres/AWS-Terraform):<br>
-   Criação de uma máquina virtual na nuvem AWS, com Terraform, para servir como servidor de um site estático.
-- [Site-estatico-no-S3](https://github.com/V1ctor1aTorres/Site-estatico-no-S3/tree/main):<br>
-   Hospedagem de um site estático na AWS, utilizando o Amazon S3, com proteção de dados e  estratégia de ciclo de vida de dados.
-- [Docker1](https://github.com/V1ctor1aTorres/Docker1):<br>
-   Criação de uma imagem Docker e publicação no Dockerhub.
-- [Projeto-IAC](https://github.com/V1ctor1aTorres/Projeto-IAC):<br> Criação de uma máquina virtual local, que serve como servidor para um website.
-
-## 5 Mini Tutoriais na AWS
-- [Simple-Data-Visualization-With-Amazon-QuickSight](https://github.com/V1ctor1aTorres/Simple-Data-Visualization-With-Amazon-QuickSight):<br>
-  Visualizando dados com o Amazon QuickSigh.
-- [Creating-a-CloudFormation-Stack](https://github.com/V1ctor1aTorres/Creating-a-CloudFormation-Stack):<br>
-  Criando uma pilha com o AWS CloudFormation.
-- [Serverless_HelloWorld_with_AWS_Lambda](https://github.com/V1ctor1aTorres/Serverless_HelloWorld_with_AWS_Lambda):<br>
-  Criando uma função com AWS Lambda.
-- [Continuous_Deployment_Pipeline_GitHub_S3](https://github.com/V1ctor1aTorres/Continuous_Deployment_Pipeline_GitHub_S3):<br>
-   Criando um pipeline com AWS CodePipeline.
-- []():<br>
 
 ## Minhas Habilidades
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -55,6 +31,36 @@ Conquistei as seguintes certificações em computação em nuvem: [GCP Associate
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+
+
+## Projetos
+- [Docker-Pipeline-Terraform2](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform2/-/blob/main/READM.md?ref_type=heads):<br>
+   Pipeline CI/CD para criar uma imagem Docker, executá-la em um container na AWS e automatizar o versionamento do código. 
+- [Docker-Pipeline-Terraform1](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform1/-/blob/main/READM.md?ref_type=heads):<br>
+   Pipeline CI/CD para executar uma imagem Docker em um container Docker na AWS.
+- [Desafio-Terraform-Gitlab](https://gitlab.com/V1ctor1aTorres/terraform-gitlab/-/blob/main/READM.md?ref_type=heads):<br>
+   Criação de uma infraestrutura com o Terraform na AWS e criação de um deploy com o GitLab na EC2.
+- [AWS-Terraform](https://github.com/V1ctor1aTorres/AWS-Terraform):<br>
+   Criação de uma máquina virtual na nuvem AWS, com Terraform, para servir como servidor de um site estático.
+- [Site-estatico-no-S3](https://github.com/V1ctor1aTorres/Site-estatico-no-S3/tree/main):<br>
+   Hospedagem de um site estático na AWS, utilizando o Amazon S3, com proteção de dados e  estratégia de ciclo de vida de dados.
+- [Docker1](https://github.com/V1ctor1aTorres/Docker1):<br>
+   Criação de uma imagem Docker e publicação no Dockerhub.
+- [Projeto-IAC](https://github.com/V1ctor1aTorres/Projeto-IAC):<br> Criação de uma máquina virtual local, que serve como servidor para um website.
+
+
+## 5 Mini Tutoriais na AWS
+- [Simple-Data-Visualization-With-Amazon-QuickSight](https://github.com/V1ctor1aTorres/Simple-Data-Visualization-With-Amazon-QuickSight):<br>
+  Visualizando dados com o Amazon QuickSigh.
+- [Creating-a-CloudFormation-Stack](https://github.com/V1ctor1aTorres/Creating-a-CloudFormation-Stack):<br>
+  Criando uma pilha com o AWS CloudFormation.
+- [Serverless_HelloWorld_with_AWS_Lambda](https://github.com/V1ctor1aTorres/Serverless_HelloWorld_with_AWS_Lambda):<br>
+  Criando uma função com AWS Lambda.
+- [Continuous_Deployment_Pipeline_GitHub_S3](https://github.com/V1ctor1aTorres/Continuous_Deployment_Pipeline_GitHub_S3):<br>
+  Criando um pipeline com AWS CodePipeline.
+- [Facial_Analysis_with_Amazon_Rekognition](https://github.com/V1ctor1aTorres/Facial_Analysis_with_Amazon_Rekognition):<br>
+  Análise facial com o Amazon Rekognition.
+
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=V1ctor1aTorres&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1ctor1aTorres&theme=codeSTACKr&show_icons=true) 
 
