@@ -34,31 +34,31 @@ Conquistei as seguintes certificações em computação em nuvem: [GCP Associate
 
 
 ## Projetos
-- [Docker-Pipeline-Terraform2](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform2/-/blob/main/READM.md?ref_type=heads):<br>
+- [Docker-Pipeline-Terraform2](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform2/-/blob/main/READM.md?ref_type=heads)<br>
    Pipeline CI/CD para criar uma imagem Docker, executá-la em um container na AWS e automatizar o versionamento do código. 
-- [Docker-Pipeline-Terraform1](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform1/-/blob/main/READM.md?ref_type=heads):<br>
+- [Docker-Pipeline-Terraform1](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform1/-/blob/main/READM.md?ref_type=heads)<br>
    Pipeline CI/CD para executar uma imagem Docker em um container Docker na AWS.
-- [Desafio-Terraform-Gitlab](https://gitlab.com/V1ctor1aTorres/terraform-gitlab/-/blob/main/READM.md?ref_type=heads):<br>
+- [Desafio-Terraform-Gitlab](https://gitlab.com/V1ctor1aTorres/terraform-gitlab/-/blob/main/READM.md?ref_type=heads)<br>
    Criação de uma infraestrutura com o Terraform na AWS e criação de um deploy com o GitLab na EC2.
-- [AWS-Terraform](https://github.com/V1ctor1aTorres/AWS-Terraform):<br>
+- [AWS-Terraform](https://github.com/V1ctor1aTorres/AWS-Terraform)<br>
    Criação de uma máquina virtual na nuvem AWS, com Terraform, para servir como servidor de um site estático.
-- [Site-estatico-no-S3](https://github.com/V1ctor1aTorres/Site-estatico-no-S3/tree/main):<br>
+- [Site-estatico-no-S3](https://github.com/V1ctor1aTorres/Site-estatico-no-S3/tree/main)<br>
    Hospedagem de um site estático na AWS, utilizando o Amazon S3, com proteção de dados e  estratégia de ciclo de vida de dados.
-- [Docker1](https://github.com/V1ctor1aTorres/Docker1):<br>
+- [Docker1](https://github.com/V1ctor1aTorres/Docker1)<br>
    Criação de uma imagem Docker e publicação no Dockerhub.
-- [Projeto-IAC](https://github.com/V1ctor1aTorres/Projeto-IAC):<br> Criação de uma máquina virtual local, que serve como servidor para um website.
+- [Projeto-IAC](https://github.com/V1ctor1aTorres/Projeto-IAC)<br> Criação de uma máquina virtual local, que serve como servidor para um website.
 
 
 ## 5 Mini Tutoriais na AWS
-- [Simple-Data-Visualization-With-Amazon-QuickSight](https://github.com/V1ctor1aTorres/Simple-Data-Visualization-With-Amazon-QuickSight):<br>
+- [Simple-Data-Visualization-With-Amazon-QuickSight](https://github.com/V1ctor1aTorres/Simple-Data-Visualization-With-Amazon-QuickSight)<br>
   Visualizando dados com o Amazon QuickSigh.
-- [Creating-a-CloudFormation-Stack](https://github.com/V1ctor1aTorres/Creating-a-CloudFormation-Stack):<br>
+- [Creating-a-CloudFormation-Stack](https://github.com/V1ctor1aTorres/Creating-a-CloudFormation-Stack)<br>
   Criando uma pilha com o AWS CloudFormation.
-- [Serverless_HelloWorld_with_AWS_Lambda](https://github.com/V1ctor1aTorres/Serverless_HelloWorld_with_AWS_Lambda):<br>
+- [Serverless_HelloWorld_with_AWS_Lambda](https://github.com/V1ctor1aTorres/Serverless_HelloWorld_with_AWS_Lambda)<br>
   Criando uma função com AWS Lambda.
-- [Continuous_Deployment_Pipeline_GitHub_S3](https://github.com/V1ctor1aTorres/Continuous_Deployment_Pipeline_GitHub_S3):<br>
+- [Continuous_Deployment_Pipeline_GitHub_S3](https://github.com/V1ctor1aTorres/Continuous_Deployment_Pipeline_GitHub_S3)<br>
   Criando um pipeline com AWS CodePipeline.
-- [Facial_Analysis_with_Amazon_Rekognition](https://github.com/V1ctor1aTorres/Facial_Analysis_with_Amazon_Rekognition):<br>
+- [Facial_Analysis_with_Amazon_Rekognition](https://github.com/V1ctor1aTorres/Facial_Analysis_with_Amazon_Rekognition)<br>
   Análise facial com o Amazon Rekognition.
 
 
