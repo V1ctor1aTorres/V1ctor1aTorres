@@ -44,9 +44,6 @@ Conquistei as seguintes certificações em computação em nuvem: [GCP Associate
    Criação de uma máquina virtual na nuvem AWS, com Terraform, para servir como servidor de um site estático.
 - [Site-estatico-no-S3](https://github.com/V1ctor1aTorres/Site-estatico-no-S3/tree/main)<br>
    Hospedagem de um site estático na AWS, utilizando o Amazon S3, com proteção de dados e  estratégia de ciclo de vida de dados.
-- [Docker1](https://github.com/V1ctor1aTorres/Docker1)<br>
-   Criação de uma imagem Docker e publicação no Dockerhub.
-- [Projeto-IAC](https://github.com/V1ctor1aTorres/Projeto-IAC)<br> Criação de uma máquina virtual local, que serve como servidor para um website.
 
 
 ## 5 Mini Tutoriais na AWS
