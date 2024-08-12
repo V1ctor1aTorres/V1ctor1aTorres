@@ -36,8 +36,6 @@ Conquistei as seguintes certificações em computação em nuvem: [GCP Associate
 ## Projetos
 - [Docker-Pipeline-Terraform2](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform2/-/blob/main/READM.md?ref_type=heads)<br>
    Pipeline CI/CD para criar uma imagem Docker, executá-la em um container na AWS e automatizar o versionamento do código. 
-- [Docker-Pipeline-Terraform1](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform1/-/blob/main/READM.md?ref_type=heads)<br>
-   Pipeline CI/CD para executar uma imagem Docker em um container Docker na AWS.
 - [Desafio-Terraform-Gitlab](https://gitlab.com/V1ctor1aTorres/terraform-gitlab/-/blob/main/READM.md?ref_type=heads)<br>
    Criação de uma infraestrutura com o Terraform na AWS e criação de um deploy com o GitLab na EC2.
 - [AWS-Terraform](https://github.com/V1ctor1aTorres/AWS-Terraform)<br>
