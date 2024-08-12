@@ -3,7 +3,7 @@
 Olá, é muito bom ter você aqui!👋<br/>
 Fique a vontade para saber mais sobre mim, sobre meus estudos e meus projetos.<br/>
 
-![](https://komarev.com/ghpvc/?username=V1ctor1aTorres&label=VISITANTES&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=V1ctor1aTorres&label=Visitantes&color=blueviolet)
 
 
 ## Sobre Mim
