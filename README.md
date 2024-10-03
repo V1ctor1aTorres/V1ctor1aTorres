@@ -62,10 +62,12 @@ Conquistei as seguintes certificações em computação em nuvem: [GCP Associate
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=V1ctor1aTorres&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1ctor1aTorres&theme=codeSTACKr&show_icons=true) 
 
 ## Certificações
-- [AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/ceb36149-b0e5-4d16-8623-65e4bab037ae/linked_in?t=s7enyy)
-- [OCI 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6)
-- [GCP Associate Cloud Engineer](https://www.credly.com/badges/e4e70c42-4730-4880-a65b-b9fb2d4cdfdc/public_url)
+- [Azure AI-900](https://lnkd.in/dGk_W4ty)
 - [GitHub Foundations](https://www.credly.com/badges/4d931262-4347-4f56-ae8f-028169dd5da0/public_url)
+- [GCP Associate Cloud Engineer](https://www.credly.com/badges/e4e70c42-4730-4880-a65b-b9fb2d4cdfdc/public_url)
+- [OCI 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6)
+- [AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/ceb36149-b0e5-4d16-8623-65e4bab037ae/linked_in?t=s7enyy)
+
 
 ## Contatos
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:victoriaviana025@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-viana/)
