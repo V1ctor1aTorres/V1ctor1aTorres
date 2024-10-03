@@ -1,5 +1,5 @@
 
-# Estudante de Cloud Computing ☁️
+# Estudante de DevOps ⚙️
 Olá, é muito bom ter você aqui!👋<br/>
 Fique a vontade para saber mais sobre mim, sobre meus estudos e meus projetos.<br/>
 
@@ -7,9 +7,9 @@ Fique a vontade para saber mais sobre mim, sobre meus estudos e meus projetos.<b
 
 
 ## Sobre Mim
-Sou aspirante a Arquiteta de Soluções e estou em transição de carreira. Trabalhei por 5 anos no setor de varejo farmacêutico, começando na área de vendas e atendimento ao cliente, e depois atuando no setor de merchandising e marketing. Agora, estou migrando para a área de tecnologia.<br>
-Atualmente, estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Estácio, com foco em Cloud Computing, mais especificamente em arquitetura de soluções.<br>
-Conquistei as seguintes certificações em computação em nuvem: [GCP Associate Cloud Engineer](https://www.credly.com/badges/e4e70c42-4730-4880-a65b-b9fb2d4cdfdc/public_url), [AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/ceb36149-b0e5-4d16-8623-65e4bab037ae/linked_in?t=s7enyy), [OCI 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6), [GitHub Foundations](https://www.credly.com/badges/4d931262-4347-4f56-ae8f-028169dd5da0/public_url) e [Azure AI-900](https://lnkd.in/dGk_W4ty). Tenho conhecimentos em HTML, CSS, JavaScript, Python, SQL, Git, AWS, Google Cloud, Azure, Oracle Cloud e inglês intermediário. Além disso, tenho noções básicas de Linux, Docker, Kubernetes, Vagrant e Terraform.
+Estou em transição para a área de tecnologia, com foco em DevOps. Tenho 5 anos de experiência no varejo farmacêutico, onde desenvolvi habilidades em atendimento ao cliente, gestão de merchandising e suporte administrativo.<br>
+Atualmente, estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas.<br>
+Conquistei as seguintes certificações em computação em nuvem: [GCP Associate Cloud Engineer](https://www.credly.com/badges/e4e70c42-4730-4880-a65b-b9fb2d4cdfdc/public_url), [AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/ceb36149-b0e5-4d16-8623-65e4bab037ae/linked_in?t=s7enyy), [OCI 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6), [GitHub Foundations](https://www.credly.com/badges/4d931262-4347-4f56-ae8f-028169dd5da0/public_url) e [Azure AI-900](https://lnkd.in/dGk_W4ty). Tenho conhecimentos em AWS, Google Cloud, Azure, Oracle Cloud, Docker, Kubernetes, Vagrant, Terraform, GitHub, GitLab CI/CD, Linux, Shell Script, SQL, Python, JavaScript, HTML e CSS.
 
 
 ## Minhas Habilidades
