@@ -1,4 +1,3 @@
-
 # Estudante de Cloud Computing ☁️
 Olá, é muito bom ter você aqui!👋<br/>
 Fique a vontade para saber mais sobre mim, sobre meus estudos e meus projetos.<br/>
@@ -9,7 +8,7 @@ Fique a vontade para saber mais sobre mim, sobre meus estudos e meus projetos.<b
 ## Sobre Mim
 Estou em transição para a área de tecnologia, com foco em Cloud. Tenho 5 anos de experiência no varejo farmacêutico, onde desenvolvi habilidades em atendimento ao cliente, gestão de merchandising e suporte administrativo.<br>
 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso o 1º semestre de Engenharia de Software.<br>
-Conquistei as seguintes certificações em computação em nuvem: [AWS Solutions Architect Associate](https://www.credly.com/earner/earned/badge/c532ff92-3dc9-4200-8f8a-30600e06850f),  [AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/ceb36149-b0e5-4d16-8623-65e4bab037ae/linked_in?t=s7enyy), [GCP Associate Cloud Engineer](https://www.credly.com/badges/e4e70c42-4730-4880-a65b-b9fb2d4cdfdc/public_url), [OCI 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6), [GitHub Foundations](https://www.credly.com/badges/4d931262-4347-4f56-ae8f-028169dd5da0/public_url) e [Azure AI-900](https://lnkd.in/dGk_W4ty). Tenho conhecimentos em AWS, Google Cloud, Azure, Oracle Cloud, Docker, Terraform, GitHub, GitLab CI/CD, Linux, Shell Script, SQL, Python, JavaScript, HTML e CSS.
+Conquistei as seguintes certificações em computação em nuvem: [AWS Solutions Architect Associate](https://www.credly.com/earner/earned/badge/c532ff92-3dc9-4200-8f8a-30600e06850f),  [AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/ceb36149-b0e5-4d16-8623-65e4bab037ae/linked_in?t=s7enyy), [GCP Associate Cloud Engineer](https://www.credly.com/badges/e4e70c42-4730-4880-a65b-b9fb2d4cdfdc/public_url), [OCI 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF940C7CC280256FA6D4560D56B5825174D2FEA8F27B59E32B6546CB6BD7CBE6), [GitHub Foundations](https://www.credly.com/badges/4d931262-4347-4f56-ae8f-028169dd5da0/public_url) e [Azure AI-900](https://lnkd.in/dGk_W4ty). Tenho conhecimentos em AWS, Google Cloud, Azure, Oracle Cloud, Docker, Terraform, GitHub, GitLab CI/CD, Linux, Shell Script, Python, JavaScript, HTML e CSS.
 
 
 ## Minhas Habilidades
@@ -27,7 +26,6 @@ Conquistei as seguintes certificações em computação em nuvem: [AWS Solutions
 ![Apache](https://img.shields.io/badge/Apache-CA2136?logo=apache&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E ) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
@@ -36,6 +34,8 @@ Conquistei as seguintes certificações em computação em nuvem: [AWS Solutions
 
 
 ## Projetos
+- [Projeto-AWS-DevOps](https://github.com/V1ctor1aTorres/Projeto-AWS-DevOps)<br>
+   Pipeline CI/CD utilizando serviços AWS.
 - [Docker-Pipeline-Terraform2](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform2/-/blob/main/READM.md?ref_type=heads)<br>
    Pipeline CI/CD para criar uma imagem Docker, executá-la em um container na AWS e automatizar o versionamento do código. 
 - [Desafio-Terraform-Gitlab](https://gitlab.com/V1ctor1aTorres/terraform-gitlab/-/blob/main/READM.md?ref_type=heads)<br>
