@@ -35,7 +35,7 @@ Conquistei as seguintes certificações em computação em nuvem: [AWS Solutions
 
 ## Projetos
 - [Projeto-AWS-DevOps](https://github.com/V1ctor1aTorres/Projeto-AWS-DevOps)<br>
-   Pipeline CI/CD utilizando serviços AWS.
+   Pipeline CI/CD para construir e implantar uma aplicação web simples utilizando serviços da AWS.
 - [Docker-Pipeline-Terraform2](https://gitlab.com/V1ctor1aTorres/docker-pipeline-terraform2/-/blob/main/READM.md?ref_type=heads)<br>
    Pipeline CI/CD para criar uma imagem Docker, executá-la em um container na AWS e automatizar o versionamento do código. 
 - [Site-estatico-no-S3](https://github.com/V1ctor1aTorres/Site-estatico-no-S3/tree/main)<br>
